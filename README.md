@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjayKasthala
+- 👋 Hi, I’m Ajay
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, Spring Boot
 - 💞️ I’m looking to collaborate on Java based Projects
