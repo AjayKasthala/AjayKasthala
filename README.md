@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ajay
-- 👀 I develop innovating, constructive and interactive web applications.
+- 👀 I develop innovative, constructive and interactive web applications.
 - 📫 How to reach me ... Drop a mail at -> ajay.kasthala@gmail.com
