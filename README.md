@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ajay
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, Spring Boot
-- 💞️ I’m looking to collaborate on Java based Projects
+- 👀 I develop innovating, constructive and interactive web applications.
 - 📫 How to reach me ... Drop a mail at -> ajay.kasthala@gmail.com
